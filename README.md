@@ -92,8 +92,6 @@ El sistema permite:
 
 ## 💬 6. Capturas del agente funcionando
 
-> Agregar capturas mostrando:
-
 ![orquestador](agente_de_datos/orquestador.png)
 ![kpi](agente_de_datos/kpi.png)
 ![customer](agente_de_datos/customer.png)
