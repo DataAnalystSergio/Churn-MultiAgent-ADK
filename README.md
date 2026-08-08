@@ -94,21 +94,10 @@ El sistema permite:
 
 > Agregar capturas mostrando:
 
-
-
-Coordinator Agent
-
-KPI Agent
-
-Customer Agent
-
-Strategy Agent
-
-Consultas en lenguaje natural
-
-Respuestas generadas
-
-
+![orquestador](agente_de_datos/orquestador.png)
+![kpi](agente_de_datos/kpi.png)
+![customer](agente_de_datos/customer.png)
+![strategy](agente_de_datos/strategy.png)
 
 ---
 
