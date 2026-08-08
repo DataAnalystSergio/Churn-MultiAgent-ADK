@@ -171,7 +171,8 @@ Información del Reasoning Engine
 
 ## 📊 8. Dashboard en Looker Studio
 
-> Agregar capturas del dashboard desarrollado para el análisis del abandono de clientes.
+![dashboards1](dashboards/1.png)
+![dashboards2](dashboards/2.png)
 
 
 
