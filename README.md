@@ -31,27 +31,7 @@ Este proyecto busca responder preguntas de negocio como:
 
 La solución sigue una arquitectura Coordinator–Specialist, donde un agente principal orquesta la ejecución de agentes especializados.
 
-Usuario
-    │
-    ▼
-Coordinator Agent
-    │
- ┌──┼──────────────┐
- ▼  ▼              ▼
-KPI Agent   Customer Agent   Strategy Agent
-       │
-       ▼
-    BigQuery
-
-### Agentes implementados
-
-Agente	Responsabilidad
-
-🤖 Coordinator Agent	Orquesta el flujo y selecciona el especialista adecuado.
-📊 KPI Agent	Analiza KPIs, segmentos, canales, productos y tendencias.
-👤 Customer Agent	Analiza clientes individuales, riesgo, diagnóstico y Next Best Action.
-🎯 Strategy Agent	Genera estrategias comerciales y recomendaciones de retención.
-
+![arquitectura](images/arquitectura.png)
 
 
 ---
