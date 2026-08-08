@@ -123,23 +123,6 @@ Información del Reasoning Engine
 ![dashboards2](dashboards/2.png)
 
 
-
-Ejemplos:
-
-KPI principal
-
-Evolución del Churn
-
-Segmentación
-
-Departamentos
-
-Productos
-
-Canales
-
-
-
 ---
 
 ## 🌐 9. Arquitectura de Google Cloud
