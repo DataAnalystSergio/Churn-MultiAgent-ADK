@@ -64,26 +64,7 @@ La solución sigue una arquitectura Coordinator–Specialist, donde un agente pr
 
 ## 🔄 4. Flujo de la solución
 
-Consulta en lenguaje natural
-            │
-            ▼
-   Coordinator Agent
-            │
-            ▼
- Selección del especialista
-            │
-            ▼
-Ejecución de herramientas Python
-            │
-            ▼
-        BigQuery
-            │
-            ▼
- Integración de resultados
-            │
-            ▼
-Respuesta al usuario
-
+![flujo](images/flujo.png)
 
 ---
 
