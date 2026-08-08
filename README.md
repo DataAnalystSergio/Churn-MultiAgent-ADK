@@ -144,24 +144,5 @@ Canales
 
 ## 🌐 9. Arquitectura de Google Cloud
 
-Usuario
-      │
-      ▼
-Vertex AI Agent Engine
-      │
-      ▼
-Coordinator Agent
-      │
- ┌────┼─────────┐
- ▼    ▼         ▼
-KPI Customer Strategy
-      │
-      ▼
-Herramientas Python
-      │
-      ▼
-BigQuery
-      │
-      ▼
-Looker Studio
+![arquitectura_google](images/arquitectura_google.png)
 
