@@ -101,19 +101,8 @@ El sistema permite:
 
 ## ☁️ 7. Capturas de Vertex AI Agent Engine
 
-> Agregar imágenes de:
-
-
-
-Agent Engine
-
-Playground
-
-Despliegue exitoso
-
-Información del Reasoning Engine
-
-
+![agenteengine](agente_de_datos/agentengine.png)
+![playground](agente_de_datos/playground.png)
 
 ---
 
